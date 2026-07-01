@@ -1,0 +1,27 @@
+print("Hello world")
+
+import pyjokes
+
+joke = pyjokes.get_joke()
+# print("Printing jokes....")(using ctrl / you can make the line into a comment )
+print(joke)
+
+# A module is a file containing code written by somebody else which can be imported and used in other programs
+# Pip is the package manager for python. I t can be used to install a module on your system.
+
+#Types of modules 
+#Built in module(already preinstalled in python)
+#External modules(need to be installed using pip)
+
+#Using python as a calculator using terminal and write python then u ca use it as a calculator
+#This uses REPL(Read Evaluate Print Loop) which is a simple, interactive computer programming environment. It takes single user inputs, executes them, and returns the result to the user.
+
+'''
+So thanks
+that was my program
+this line got ignored because it is a multiple line commenet
+'''
+#select the lines then do ctrl +/
+
+
+#CHAPTER 1 PRACTICE SET INCOMING
