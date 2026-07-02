@@ -76,3 +76,6 @@ t= type(a)
 print(t)#int obv
 print(type(c))#str obvious
 b=float(a)#hogai iski type change
+t= type(b)
+print(t)#float obvious
+
